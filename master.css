@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(228,228,228);
+    font-family: "open sans", sans-serif;
+}
+.white{
+    background-color: white;
+}
+.left{
+    float: left;
+    width: 450px;
+}
+.right{
+    float: right;
+    width: 730px;
+}
+.row{
+    position: relative;
+    margin-bottom: 20px;
+}
+.container{
+    position: relative;
+    width: 1200px;
+    margin: 0 auto;
+}
+#pieChart{
+    width: 450px;
+}
+#chart1{
+    width: 730px;
+}
+h2, h3{
+    text-align: center;
+}
+h3{
+    margin-top: 20px;
+}
+h3.subtitle{
+    margin-bottom: 0px;
+    padding-top: 15px;
+    text-align: left;
+    padding-left: 20px;
+}
+h3.group-title{
+    font-weight: normal;
+}
+.clearfix:after{
+        content: "";
+        display: block;
+        height: 0;
+        clear:both;
+        visibility: hidden;
+}
+.tooltip {
+              position: absolute;
+              z-index: 10;
+            }
+
+            .tooltip p {
+              background-color: rgba(0,0,0,0.75);
+              color: #efefef;
+              border-radius: 2px;
+              padding: 4px;
+              max-width: 180px;
+              font-size: 12px;
+            }
