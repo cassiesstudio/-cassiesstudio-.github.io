@@ -37,7 +37,8 @@ The overall teaching satisfaction of the school is moderate, and the teacher's p
 
 Conclusion:
 
-I have categorized the problem. I think this analysis is more specific and instructive. 
+I have categorized the questionaries: questions x1-xn are for satisfaction, questions y1-yn are for different evaluation indicators.
+I think this analysis is more specific and instructive. 
 Schools can know in what areas they are doing well and in what areas they need to improve. 
 The next thing I want to do is to analyze the data set completely, this time only the satisfaction of one course is analyzed.
 
